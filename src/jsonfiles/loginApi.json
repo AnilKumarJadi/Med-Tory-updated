@@ -1,0 +1,47 @@
+{
+  "superadmin": [
+    {
+      "username": "superadmin",
+      "password": "supad@12",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "superadmin",
+      "id": "Oc4gUg7"
+    }
+  ],
+  "admin": [
+    {
+      "username": "admin",
+      "password": "admin@12",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "superadmin",
+      "id": "Oc4gUg7"
+    }
+  ],
+  "inventorystaff": [
+    {
+      "username": "inventorystaff",
+      "password": "invst@12",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "superadmin",
+      "id": "Oc4gUg7"
+    }
+  ],
+  "supplier": [
+    {
+      "username": "supplier",
+      "password": "suppl@12",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "superadmin",
+      "id": "Oc4gUg7"
+    }
+  ],
+  "viewer": [
+    {
+      "username": "viewer",
+      "password": "view@12",
+      "email": "nadhiyas1701@gmail.com",
+      "role": "superadmin",
+      "id": "Oc4gUg7"
+    }
+  ]
+}
